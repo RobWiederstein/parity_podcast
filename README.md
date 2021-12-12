@@ -26,4 +26,4 @@ Errors or coding questions may be addressed via a pull request or by contacting 
 
 # License
 
-This project uses an [MIT license](https://github.com/robwiederstein/parity_podcast/blob/master/LICENSE.md).
+This project uses an [MIT license](/LICENSE.md).
